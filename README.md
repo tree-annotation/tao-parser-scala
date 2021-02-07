@@ -1,4 +1,4 @@
-# Reference parser for TAO in Java
+# Reference parser for TAO in Scala
 
 This is a parser for the [TAO syntax grammar](https://www.tree-annotation.org/#grammar).
 
