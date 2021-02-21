@@ -1,0 +1,133 @@
+[
+  "tao",
+  [
+    [
+      "tree",
+      [
+        "tao",
+        [
+          [
+            "note",
+            "p"
+          ],
+          [
+            "op",
+            ">"
+          ],
+          [
+            "note",
+            "TAO ("
+          ],
+          [
+            "tree",
+            [
+              "tao",
+              [
+                [
+                  "note",
+                  "a href"
+                ],
+                [
+                  "tree",
+                  [
+                    "tao",
+                    [
+                      [
+                        "note",
+                        "tao.html"
+                      ]
+                    ]
+                  ]
+                ],
+                [
+                  "op",
+                  ">"
+                ],
+                [
+                  "note",
+                  "Tree Annotation Operator"
+                ]
+              ]
+            ]
+          ],
+          [
+            "note",
+            ") is a unique and extremely simple "
+          ],
+          [
+            "tree",
+            [
+              "tao",
+              [
+                [
+                  "note",
+                  "a href"
+                ],
+                [
+                  "tree",
+                  [
+                    "tao",
+                    [
+                      [
+                        "note",
+                        "tas.html"
+                      ]
+                    ]
+                  ]
+                ],
+                [
+                  "op",
+                  ">"
+                ],
+                [
+                  "note",
+                  "Tree Annotation Syntax"
+                ]
+              ]
+            ]
+          ],
+          [
+            "note",
+            " which can be used in "
+          ],
+          [
+            "tree",
+            [
+              "tao",
+              [
+                [
+                  "note",
+                  "a href"
+                ],
+                [
+                  "tree",
+                  [
+                    "tao",
+                    [
+                      [
+                        "note",
+                        "contexts.html"
+                      ]
+                    ]
+                  ]
+                ],
+                [
+                  "op",
+                  ">"
+                ],
+                [
+                  "note",
+                  "all kinds of contexts"
+                ]
+              ]
+            ]
+          ],
+          [
+            "note",
+            ". It is easily readable and writable by humans and machines and has only three basic constructs"
+          ]
+        ]
+      ]
+    ]
+  ]
+]
