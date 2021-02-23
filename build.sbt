@@ -9,10 +9,10 @@ ThisBuild / homepage := Some(url("https://www.tree-annotation.org/"))
 ThisBuild / scmInfo := Some(ScmInfo(url("https://github.com/tree-annotation/tao"), "https://github.com/tree-annotation/tao.git"))
 
 ThisBuild / developers := List(Developer(
-  "Dariusz Jędrzejczak",
-  "Dariusz Jędrzejczak",
-  "jdwork@o2.pl",
-  url("https://github.com/djedr")
+  "Truman A. Oz",
+  "Truman A. Oz",
+  "truman\" + \"!@#\".charAt(1) + \"tree-annotation.org",
+  url("https://github.com/trumanaoz")
 ))
 
 ThisBuild / publishTo := sonatypePublishToBundle.value
