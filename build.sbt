@@ -11,7 +11,7 @@ ThisBuild / scmInfo := Some(ScmInfo(url("https://github.com/tree-annotation/tao-
 ThisBuild / developers := List(Developer(
   "Truman A. Oz",
   "Truman A. Oz",
-  """"truman" + "!@#".charAt(1) + "tree-annotation.org"""",
+  "truman" + "!@#".charAt(1) + "tree-annotation.org",
   url("https://github.com/trumanaoz")
 ))
 
