@@ -6,7 +6,7 @@ ThisBuild / name := "tao-parser"
 ThisBuild / description := "first truly universal syntax for structural communication at any scale, born of a vision of total intercommunication of all software systems"
 ThisBuild / licenses := List("MIT" -> url("https://choosealicense.com/licenses/mit/"))
 ThisBuild / homepage := Some(url("https://www.tree-annotation.org/"))
-ThisBuild / scmInfo := Some(ScmInfo(url("https://github.com/tree-annotation/tao"), "https://github.com/tree-annotation/tao.git"))
+ThisBuild / scmInfo := Some(ScmInfo(url("https://github.com/tree-annotation/tao-parser-scala"), "https://github.com/tree-annotation/tao-parser-scala.git"))
 
 ThisBuild / developers := List(Developer(
   "Truman A. Oz",
