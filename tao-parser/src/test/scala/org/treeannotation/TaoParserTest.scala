@@ -7,10 +7,11 @@ import scala.io.Source
 class TaoParserTest extends AnyFlatSpec {
 
   "tao parser" should "parse" in {
-    val input = Source.fromInputStream(getClass.getResourceAsStream("/org/treeannotation/tao-html.tao"))
+    val input = Source.fromInputStream(getClass.getResourceAsStream("/org/treeannotation/quirky.tao"))
       .mkString
     val tao = new TaoParser().parse(input)
-    println(tao.toString())
+
+    assert(tao.toString() == input)
   }
 
 }
