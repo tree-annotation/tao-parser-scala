@@ -1,4 +1,4 @@
-package org.treeannotation
+package org.tree_annotation
 
 import scala.collection.mutable.Stack
 import scala.collection.mutable.ListBuffer
